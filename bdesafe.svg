@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="bdesafe.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   inkscape:export-filename="bdesafe.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" /><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.47167969"
+   inkscape:cx="457.93789"
+   inkscape:cy="514.12008"
+   inkscape:window-width="1366"
+   inkscape:window-height="701"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g3"><rect
+     x="168.25516"
+     y="231.43655"
+     style="fill:#ffffff;stroke-width:0.9375"
+     width="240.99188"
+     height="167.64656"
+     id="rect1" /><g
+     id="g2"
+     transform="matrix(0.9375,0,0,0.9375,16.000469,16)">
+	<rect
+   x="100.935"
+   y="458.91599"
+   style="fill:#afb6bb"
+   width="379.99899"
+   height="44.706001"
+   id="rect2" />
+	<polygon
+   style="fill:#afb6bb"
+   points="184.419,90.536 113.225,161.618 85.955,134.348 157.149,63.265 "
+   id="polygon2" />
+</g><polygon
+     style="fill:#00ac4e"
+     points="85.955,134.348 66.172,154.13 34.543,122.501 145.19,11.854 176.819,43.483 157.149,63.265 "
+     id="polygon3"
+     transform="matrix(0.9375,0,0,0.9375,16.000469,16)" /><g
+     id="g1"><path
+       style="fill:#36c63f;stroke-width:0.9375"
+       d="M 210.16328,79.5025 H 466.87234 V 446.23 H 110.62328 V 179.0425 l 11.52563,-11.52563 66.74437,-66.63937 z m 220.03688,99.54 V 116.17469 H 273.03109 V 179.0425 Z M 409.24422,399.07937 V 231.43281 H 168.25234 v 167.64656 z"
+       id="path3" /></g><path
+     style="fill:#00ac4e;stroke-width:0.9375"
+     d="m 409.24422,374.28625 v 24.79313 H 168.25234 V 231.43281 h 64.54782 C 208.15047,195.55 189.28516,155.41 177.41359,112.33938 l -55.26468,55.17749 -11.52563,11.52563 V 446.23 h 356.24906 v -53.22281 c -19.83187,-4.80844 -39.08531,-11.06906 -57.62812,-18.72094 z"
+     id="path4" /><path
+     d="M 206.89703,71.644375 188.87922,89.75125 174.42484,75.295938 192.86734,56.750312 152.11516,16 37.270469,130.84469 78.036719,171.61 l 18.544687,-18.54563 14.453434,14.45344 -8.27156,8.27156 V 496 H 474.72953 V 71.644375 Z m 6.5325,15.71625 H 459.01422 V 438.37187 H 118.48234 V 182.29844 Z M 177.77547,100.87375 122.15359,156.4075 107.70016,141.955 163.32203,86.420313 Z m -118.277814,29.97094 92.618434,-92.61844 18.555,18.554062 -92.634371,92.603438 z m 58.984684,349.43812 v -26.19468 h 340.53282 v 26.19468 z"
+     id="path5"
+     style="stroke-width:0.9375" /><path
+     d="M 438.05828,108.31656 H 265.17297 v 78.58406 h 172.88531 z m -15.71625,62.86781 H 280.89016 v -47.15062 h 141.45187 z"
+     id="path6"
+     style="stroke-width:0.9375" /><path
+     d="M 160.39328,406.9375 H 417.10234 V 223.57375 H 160.39328 Z M 176.11047,239.29094 H 401.38609 V 391.22125 H 176.11047 Z"
+     id="path7"
+     style="stroke-width:0.9375" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.069px;font-family:'Courier New';-inkscape-font-specification:'Courier New';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:1.73546"
+     x="187.91978"
+     y="348.89227"
+     id="text12"><tspan
+       sodipodi:role="line"
+       x="187.91978"
+       y="348.89227"
+       id="tspan13"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:111.069px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#000000;stroke-width:1.73546">BDE</tspan></text></g></svg>
